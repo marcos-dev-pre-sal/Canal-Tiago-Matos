@@ -1,0 +1,7 @@
+1- asdasdasdfasdfasdfasfasdfasdf
+asdfasdfasdfasdfasdfasdfasdfasdf
+2-asdfasdfasdfasdfadfasdfasdfasdf
+3-asdfasdfasdfasdfasdfasdfasdfasdf
+
+4-linha adicionada através do terminal...
+5-com o comando 'nano_nameFile';
